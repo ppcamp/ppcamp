@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Hi there 👋, I'm Pedro </h2>
 <hr/>
 
-<div align="left" style="height:600px; float:left; width:50%; display:block">
+<div align="center">
   <h3 align="center"> Some facts about me: </h3>
   <ul>
     <li> 🔭 I’m currently a treinee in Unifei college </li>
@@ -50,10 +50,10 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<div align="right" style="height:600px; float:left; width:50%; display:block">
-  <img alt="gh-stats" width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
+<div align="center">
+  <img alt="gh-stats" width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
   <br/>
-  <img alt="gh-top-langs" width="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
+  <img alt="gh-top-langs" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 <!-- More configs in
