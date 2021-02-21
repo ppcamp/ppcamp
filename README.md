@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left" style="height:600px; float:left; width:50%">
+<p align="left" style="height:600px; float:left; width:50%; background-color:green;">
   <a href="https://linkedin.com/in/ppcamp">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="right" style="height:600px; float:left; width:50%">
+<p align="right" style="height:600px; float:left; width:50%; background-color:red;">
   <img alt="gh-stats" width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
   <br/>
   <img alt="gh-top-langs" width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
