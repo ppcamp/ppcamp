@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Hi there 👋, I'm Pedro </h2>
 <hr/>
 
-<div align="center">
+<div align="left">
   <h3 align="center"> Some facts about me: </h3>
   <ul>
     <li> 🔭 I’m currently a treinee in Unifei college </li>
