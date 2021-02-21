@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 <!-- Code itself -->
 <h2 align="center"> Hi there 👋, I'm Pedro </h2>
 
----
 
 <div align="left">
-  <h3 align="center"> Some facts about me: </h3>
+  <h3 align="left"> Some facts about me: </h3>
   <ul>
     <li> 🔭 I’m currently a treinee in Unifei college </li>
     <li> 🌱 I’m currently learning
@@ -31,14 +30,14 @@ Here are some ideas to get you started:
     </li>
   </ul>
 
-  <h4 align="center"> ⚡ Fun facts: </h4>
+  <h4 align="left"> ⚡ Fun facts: </h4>
   <ul>
     <li> 🎸 I used to play eletric guitar </li>
     <li> 🤓 I'm kinda geek </li>
   </ul>
 
-  <h4 align="center"> 📫 How to reach me: </h4>
-  <div align="center">
+  <h4 align="left"> 📫 How to reach me: </h4>
+  <div align="left">
     <a href="https://linkedin.com/in/ppcamp">
       <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
