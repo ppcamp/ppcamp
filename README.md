@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/ppcamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
 </a>
