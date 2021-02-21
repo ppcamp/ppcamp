@@ -5,17 +5,26 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<p align="left" style="height:600px; float:left; width:50%; background-color:#ccc;">
+<p align="left" style="height:600px; float:left; width:50%;">
+  <h3 align="center"> Some facts about me: </h3>
+  <ul>
+    <li> 🔭 I’m currently a treinee in Unifei college </li>
+    <li> 🌱 I’m currently learning <a href="https://reactjs.org/"> React</a> and <a href="https://www.rust-lang.org/">Rust</a> </li>
+  </ul>
+  
+  <h4 align="center"> ⚡ Fun facts: </h4>
+  <ul>
+  <li> 🎸 I used to play eletric guitar </li>
+  <li> 🤓 I'm kinda geek </li>
+  </ul>
+  
+  <h4 align="center"> 📫 How to reach me: </h4>
   <a href="https://linkedin.com/in/ppcamp">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -27,7 +36,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="right" style="height:600px; float:left; width:50%; background-color:#fff;">
+<p align="right" style="height:600px; float:left; width:50%;">
   <img alt="gh-stats" width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
   <br/>
   <img alt="gh-top-langs" width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
