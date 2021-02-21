@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <h3 align="center"> Some facts about me: </h3>
   <ul>
     <li> 🔭 I’m currently a treinee in Unifei college </li>
-    <li> 🌱 I’m currently learning <a href="https://reactjs.org/"> React</a> and <a href="https://www.rust-lang.org/">Rust</a> </li>
+    <li> 🌱 I’m currently learning <a href="https://reactjs.org/"> <img align="left" alt="React" width="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> React</a> and <a href="https://www.rust-lang.org/">Rust</a> </li>
   </ul>
   
   <h4 align="center"> ⚡ Fun facts: </h4>
