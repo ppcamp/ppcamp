@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img alt="gh-stats" width="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
-<img alt="gh-top-langs" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
+  <img alt="gh-stats" width="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img alt="gh-top-langs" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <!-- More configs in
