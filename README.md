@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 
 <!-- Code itself -->
 <h2 align="center"> Hi there 👋, I'm Pedro </h2>
-<hr/>
+
+---
 
 <div align="left">
   <h3 align="center"> Some facts about me: </h3>
@@ -49,6 +50,9 @@ Here are some ideas to get you started:
     </a>
   </div>
 </div>
+
+<br/>
+<br/>
 
 <div align="center">
   <img alt="gh-stats" width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
