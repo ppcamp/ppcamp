@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-<p align="left" style="height:600px; float:left; width:50%;">
+<p align="left" style="height:600px; float:left; width:50%; display:inline-block">
   <h3 align="center"> Some facts about me: </h3>
   <ul>
     <li> 🔭 I’m currently a treinee in Unifei college </li>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="right" style="height:600px; float:left; width:50%;">
+<p align="right" style="height:600px; float:left; width:50%; display:inline-block">
   <img alt="gh-stats" width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
   <br/>
   <img alt="gh-top-langs" width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
