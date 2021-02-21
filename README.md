@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ppcamp)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:p.augustocampos@gmail.com?subject=Contact from github)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5533991143034)
+
+
+
 <p align="center">
   <img alt="gh-stats" width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
   <br/>
