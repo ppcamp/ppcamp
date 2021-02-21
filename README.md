@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
+<img alt="gh-stats" style="display:block; margin-left:auto; margin-right:auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=ppcamp&show_icons=true&theme=radical&hide_border=true" />
+<img alt="gh-top-langs" style="display:block; margin-left:auto; margin-right:auto; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
 
 <!-- More configs in
 themes: https://github.com/anuraghazra/github-readme-stats#themes
