@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 <div align="left">
   <h3 align="left"> Some facts about me: </h3>
   <ul>
-    <li> 🔭 I’m currently a treinee in Unifei college </li>
+    <li> 🔭 I’m currently a backend developer at [Vlab](https://www.vlab.live/) </li>
     <li> 🌱 I’m currently learning
       <a href="https://reactjs.org/">
         <img class="react" alt="React" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
         React
       </a>
       and
-      <a href="https://www.rust-lang.org/">
-        <img class="react" alt="Rust" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />
-        Rust
+      <a href="https://golang.org/">
+        <img class="golang" alt="Golang" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
+        Golang
       </a>
     </li>
   </ul>
