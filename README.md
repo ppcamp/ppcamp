@@ -16,18 +16,8 @@ Here are some ideas to get you started:
 <div align="left">
   <h3 align="left"> Some facts about me: </h3>
   <ul>
-    <li> 🔭 I’m currently a backend developer at <a href="https://www.vlab.live/">Vlab</a> </li>
-    <li> 🌱 I’m currently learning
-      <a href="https://reactjs.org/">
-        <img class="react" alt="React" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-        React
-      </a>
-      and
-      <a href="https://golang.org/">
-        <img class="golang" alt="Golang" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
-        Golang
-      </a>
-    </li>
+    <li> 🔭 I’m currently a Software Analyst at <a href="https://www.serasaexperian.com.br/en/home-english/">Serasa Experian</a> </li>
+    <li> 🌱 I’m currently improving my skills with NestJS and Golang </li>
   </ul>
 
   <h4 align="left"> ⚡ Fun facts: </h4>
