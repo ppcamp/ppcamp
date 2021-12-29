@@ -13,42 +13,89 @@ Here are some ideas to get you started:
 <h2 align="center"> Hi there 👋, I'm Pedro </h2>
 
 
-<div align="left">
-  <h3 align="left"> Some facts about me: </h3>
-  <ul>
-    <li> 🔭 I’m currently a Software Analyst at <a href="https://www.serasaexperian.com.br/en/home-english/">Serasa Experian</a> </li>
-    <li> 🌱 I’m currently improving my skills with NestJS and Golang </li>
-  </ul>
+### Some facts about me:
+<ul>
+  <li> 📖 I'm an Computer Engineer (Graduated by Federal University of Itajubá) </li>
+  <li> 🔭 I’m currently a Software Analyst at <a href="https://www.serasaexperian.com.br/en/home-english/">Serasa Experian</a> </li>
+  <li> 🤩 I'm focusing in improve my skills with <b>Go</b> (and when I'm free, DevSecOps) </li>
+  <li> 🐧 I'm a linux lover ❤️</li>
+  <li> 🦆 I know some <i>frontend</i> (emphasis in <b>React</b> and <b>Flutter</b>)</li>
+  <li> 💡 Recently I've started a blog/portfolio, where I plan to explain, in a simple way, how to make certain things, like websockets/graphql etc. Basically, this will be just a simple project, where I'll describe what I was thinking when I was making my github projects and go on. </li>
+  <li> 🚀 I also have some great contents in <a href="https://gist.github.com/ppcamp">my Gist, check it out</a> </li>
+</ul>
 
-  <h4 align="left"> ⚡ Fun facts: </h4>
-  <ul>
-    <li> 🎸 I used to play eletric guitar </li>
-    <li> 🤓 I'm kinda geek </li>
-  </ul>
-  
-</div>
+### ⚡ Fun facts:
+<ul>
+  <li> 🎸 I used to play eletric guitar </li>
+  <li> 🤓 I'm kinda geek </li>
+</ul>
 
-<br/>
-<br/>
+### ⚡ Technologies
+
+<p align="center">All of them are ordered by current domain</p>
+
+#### Programming languages and frameworks
+![Golang](https://img.shields.io/badge/-Golang-303030?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
+![Rust](https://img.shields.io/badge/-rust-ed923e?style=flat&logo=Rust)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
+
+#### Databases and tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+
+
+#### Others
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+
+<br/> <br/>
 
 <div align="center">
   <img alt="gh-top-langs" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 
-<h4 align="center"> 📫 How to reach me: </h4>
+<br/>
+
+<h3 align="center"> 📫 How to reach me: </h3>
 <div align="center">
   <a href="https://linkedin.com/in/ppcamp">
-    <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
   <a href="mailto:p.augustocampos@gmail.com?subject=Contact from github">
-    <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="center" alt="Email" width="30px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=+5533991143034">
-    <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+    <img align="center" alt="Whatsapp" width="30px" src="https://img.icons8.com/color/48/000000/whatsapp--v2.png" />
+  </a>
+  <a href="https://www.instagram.com/pp.camp/">
+    <img align="center" alt="Whatsapp" width="33px" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" />
   </a>
 </div>
-  
+
+<br/><br/>
+
+###  Recent posts
+
+- 📌 [Covid19 Report for Itabira's city](https://ppcamp.github.io/post/covid19-itabira/)
+- 📌 [Graphql-Go](https://ppcamp.github.io/post/graphql-go/)
+
+
+
 <!-- More configs in
 themes: https://github.com/anuraghazra/github-readme-stats#themes
 -->
+
+<!-- <a href="https://icons8.com/icon/BkugfgmBwtEI/whatsapp">WhatsApp icon by Icons8</a> -->
