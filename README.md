@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
 ![Rust](https://img.shields.io/badge/-rust-ed923e?style=flat&logo=Rust)
+![Flutter](https://img.shields.io/badge/-flutter-436799?style=flat&logo=Flutter)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 
 #### Databases and tools
