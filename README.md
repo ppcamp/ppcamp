@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 
 ###  Recent posts
 
+- 📌 [Websockets in Golang](https://ppcamp.github.io/post/websocket/)
 - 📌 [Covid19 Report for Itabira's city](https://ppcamp.github.io/post/covid19-itabira/)
 - 📌 [Graphql-Go](https://ppcamp.github.io/post/graphql-go/)
 
