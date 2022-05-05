@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Svelte](https://img.shields.io/badge/-Svelte-afafaf?style=flat&logo=svelte)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
