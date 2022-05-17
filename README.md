@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Some facts about me:
 <ul>
   <li> 📖 I'm an Computer Engineer (Graduated by Federal University of Itajubá) </li>
-  <li> 🔭 I’m currently a Software Analyst at <a href="https://www.serasaexperian.com.br/en/home-english/">Serasa Experian</a> </li>
+  <li> 🔭 I’m currently a Fullstack Developer at <a href="https://www.alticeusa.com/">AlticeUSA/Winprovit</a> </li>
   <li> 🤩 I'm focusing in improve my skills with <b>Go</b> (and when I'm free, DevSecOps) </li>
   <li> 🐧 I'm a linux lover ❤️</li>
   <li> 🦆 I know some <i>frontend</i> (emphasis in <b>React</b> and <b>Flutter</b>)</li>
