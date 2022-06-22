@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Code itself -->
-<h2 align="center"> Hi there 👋, I'm Pedro </h2>
+<h2 align="center"> Hi there 👋 </h2>
 
 
 ### Some facts about me:
