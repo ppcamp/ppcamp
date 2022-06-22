@@ -64,8 +64,6 @@ Here are some ideas to get you started:
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-<br/> <br/>
-
 <br/>
 
 <h3 align="center"> 📫 How to reach me: </h3>
@@ -84,7 +82,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<br/><br/>
+<br/>
 
 ###  Recent posts
 
