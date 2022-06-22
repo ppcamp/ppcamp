@@ -66,11 +66,6 @@ Here are some ideas to get you started:
 
 <br/> <br/>
 
-<div align="center">
-  <img alt="gh-top-langs" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcamp&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true" />
-</div>
-
-
 <br/>
 
 <h3 align="center"> 📫 How to reach me: </h3>
