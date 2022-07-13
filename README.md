@@ -93,6 +93,9 @@ Here are some ideas to get you started:
 - 📌 [Covid19 Report for Itabira's city](https://ppcamp.github.io/post/covid19-itabira/)
 
 
+### Other contributions
+
+- [Article in the IEEE Transactions on Education](https://ieeexplore.ieee.org/document/9792441) -- [Check this repository](https://github.com/ppcamp/sigaa-tcc-scraping-analysis)
 
 
 <!-- More configs in
