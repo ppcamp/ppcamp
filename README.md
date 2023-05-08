@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <li> 🔭 I’m currently a Fullstack Developer at <a href="https://www.alticeusa.com/">AlticeUSA/Winprovit</a> </li>
   <li> 🤩 I'm focusing in improve my skills with <b>Go</b> (and when I'm free, DevSecOps) </li>
   <li> 🐧 I'm a linux lover ❤️</li>
-  <li> 🦆 I know some <i>frontend</i> (emphasis in <b>React</b> and <b>Flutter</b>)</li>
+  <li> 🦆 I know some <i>frontend</i> (emphasis in <b>Svelte</b> and <b>React</b>)</li>
   <li> 💡 Recently I've started a blog/portfolio, where I plan to explain, in a simple way, how to make certain things, like websockets/graphql etc. Basically, this will be just a simple project, where I'll describe what I was thinking when I was making my github projects and go on. </li>
   <li> 🚀 I also have some great contents in <a href="https://gist.github.com/ppcamp">my Gist, check it out</a> </li>
 </ul>
