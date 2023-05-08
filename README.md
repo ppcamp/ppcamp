@@ -10,25 +10,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Code itself -->
-<h2 align="center"> Hi there 👋 </h2>
-
-
-### Some facts about me:
-<ul>
-  <li> 📖 I'm an Computer Engineer (Graduated by Federal University of Itajubá) </li>
-  <li> 🔭 I’m currently a Fullstack Developer at <a href="https://www.alticeusa.com/">AlticeUSA/Winprovit</a> </li>
-  <li> 🤩 I'm focusing in improve my skills with <b>Go</b> (and when I'm free, DevSecOps) </li>
-  <li> 🐧 I'm a linux lover ❤️</li>
-  <li> 🦆 I know some <i>frontend</i> (emphasis in <b>Svelte</b> and <b>React</b>)</li>
-  <li> 💡 Recently I've started a blog/portfolio, where I plan to explain, in a simple way, how to make certain things, like websockets/graphql etc. Basically, this will be just a simple project, where I'll describe what I was thinking when I was making my github projects and go on. </li>
-  <li> 🚀 I also have some great contents in <a href="https://gist.github.com/ppcamp">my Gist, check it out</a> </li>
-</ul>
-
-### ⚡ Fun facts:
-<ul>
-  <li> 🎸 I used to play eletric guitar </li>
-  <li> 🤓 I'm kinda geek </li>
-</ul>
 
 ### ⚡ Technologies
 
@@ -80,6 +61,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/pp.camp/">
     <img align="center" alt="Whatsapp" width="33px" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" />
   </a>
+  
+  <a href="https://gist.github.com/ppcamp"> 🚀 my Gist, check it out</a> 
+
 </div>
 
 <br/>
@@ -96,7 +80,6 @@ Here are some ideas to get you started:
 ### Other contributions
 
 - [Article in the IEEE Transactions on Education](https://ieeexplore.ieee.org/document/9792441) -- [Check this repository](https://github.com/ppcamp/sigaa-tcc-scraping-analysis)
-
 
 <!-- More configs in
 themes: https://github.com/anuraghazra/github-readme-stats#themes
