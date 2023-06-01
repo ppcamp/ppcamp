@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 #### Programming languages and frameworks
 ![Golang](https://img.shields.io/badge/-Golang-303030?style=flat&logo=go)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![Svelte](https://img.shields.io/badge/-Svelte-afafaf?style=flat&logo=svelte)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![Nestjs](https://img.shields.io/badge/-nestjs-c20000?style=flat&logo=nestjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![Svelte](https://img.shields.io/badge/-Svelte-afafaf?style=flat&logo=svelte)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
